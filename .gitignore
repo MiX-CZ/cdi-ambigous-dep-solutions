@@ -1,5 +1,5 @@
 # WINDOWS image file caches
-Thumbs.db 
+Thumbs.db
 
 # Folder config file
 Desktop.ini
@@ -39,3 +39,8 @@ rebel.xml
 
 # LOGGING INGORE
 *.log
+
+# Mercurial (mirror) repo
+.hg/
+.hgignore
+
